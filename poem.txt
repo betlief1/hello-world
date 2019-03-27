@@ -1,7 +1,9 @@
 red
 green
+red,red
 blue
 orange
+purple,purle,purle
 grey
 grey
 yellow,yellow
