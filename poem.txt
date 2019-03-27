@@ -1,4 +1,6 @@
 red
 green
+red,red
 blue
 orange
+purple,purle,purle
